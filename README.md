@@ -1,2 +1,2 @@
 # go-scrape
-A simple golang webscraper
+A simple webscraper in golang without using any library
